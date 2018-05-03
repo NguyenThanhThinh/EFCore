@@ -18,7 +18,6 @@ namespace Demo
             };
 
             context.Users.AddRange(users);
-
             context.SaveChanges();
 
         }
